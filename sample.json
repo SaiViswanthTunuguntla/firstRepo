@@ -20,7 +20,7 @@
   "imagePath" : "https://upload.wikimedia.org/wikipedia/commons/f/fe/Chicken_Biryani.jpg",
   "ingredients" : [ {
     "amount" : 1,
-    "name" : "chicken"
+    "name" : "chicken dum biryani"
   }, {
     "amount" : 3,
     "name" : "rice"
